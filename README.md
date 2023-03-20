@@ -32,6 +32,3 @@ The **Models** folder contains two sub-folders:
 * **AQI Prediction Model.ipynb**: Jupyter Notebook containing python code for AQI ML Model.  
 * **Heatwaves Prediction Model.ipynb**: File containing python code for Heatwaves Prediction ML Model.  
 * The **AQI.csv** and **Heatwaves Dataset.csv** files are the outputs from **Interpolation.mlx** file and are used to train the models.  
-
-#### d95db3a3-7ed5-4f06-b700-86dfdab7d05a  
-https://sonarcloud.io/summary/overall?id=examly-test_d95db3a3-7ed5-4f06-b700-86dfdab7d05a  
